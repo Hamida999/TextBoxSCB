@@ -1,0 +1,14 @@
+#txtbox{
+    border-radius: 3px;
+    border:1px solid #a8a8ab;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    outline-style: none;
+}
+
+input#txtbox:active, input#txtbox:focus {
+        outline: none;
+		outline-style: none;
+		border-color: #719ECE;
+		box-shadow: 0 0 10px #719ECE;
+  }
